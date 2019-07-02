@@ -1,2 +1,2 @@
-# TiileMapGame
+# TileMapGame
 Game with tiles mechanics 
